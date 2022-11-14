@@ -1,4 +1,3 @@
-# Students-Competency-Assessment-Classification
 ## Classification according to high school students’ core competency evaluation scores
 
 ‘학생 청소년 핵심 역량 분석 교육 데이터’ 안에 있는 데이터들 중 학생들의 id 와 카테고리에 따른 역량
